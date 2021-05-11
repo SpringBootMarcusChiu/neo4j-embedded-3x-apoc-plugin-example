@@ -1,1 +1,1 @@
-article: http://confluence.marcuschiu.com/display/NOT/Java+-+Spring+-+Neo4j+Integration
+article: http://confluence.marcuschiu.com/x/6oOFAQ
