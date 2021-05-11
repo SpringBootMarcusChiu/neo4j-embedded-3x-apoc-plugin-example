@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.marcuschiu</groupId>
-	<artifactId>spring-boot-neo4j-3x-embedded-apoc-plugin-example</artifactId>
+	<artifactId>spring-boot-neo4j-embedded-3x-apoc-plugin-example</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>neo4j-example</name>
 	<description>Demo project for Spring Data Neo4j and Spring Boot</description>

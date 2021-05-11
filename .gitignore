@@ -32,3 +32,7 @@ build/
 
 # DS Store
 .DS_Store
+
+embedded-neo4j-db/
+logs/
+store_lock
